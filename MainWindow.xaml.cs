@@ -89,7 +89,7 @@ namespace 原神__启动_
                 else
                 {
                     player.Play();
-                    await Task.Delay(63150);
+                    await Task.Delay(68150);
                     Process process = Process.Start(Game_Path + "//YuanShen.exe");
                 }             
             }
