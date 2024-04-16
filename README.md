@@ -22,7 +22,8 @@ Main：启动应用程序的事件方法，用于创建窗口和启动游戏。
 ######**代码片段**
 下面是Program类的一个示例方法，用于启动游戏：
 
-`public void StartGame()
+```
+public void StartGame()
 {
     string Game_Path = @"C:\path\to\Games\YuanShen.exe";
     string mu = files.INIRead("General", "Music", ".ini");
@@ -58,7 +59,8 @@ Main：启动应用程序的事件方法，用于创建窗口和启动游戏。
             process.WaitForExit();
         }
     }
-}`
+}````
+````
 --------------------------------------------------------------------
 
 **特别感谢**:shed-a-light
