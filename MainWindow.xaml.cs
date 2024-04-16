@@ -55,7 +55,7 @@ namespace 原神__启动_
             FilesINI files = new FilesINI();
             files.INIWrite("General", "Music", "true", ".//ini//config.ini");
         }
-        private void Button_Click_1(object sender, RoutedEventArgs e) //保存游戏 和 配置文件 目录
+        private void Button_Click_1(object sender, RoutedEventArgs e) //游戏路径
         {
             FilesINI files = new FilesINI();
             files.INIWrite("General", "Game", Game_Path.Text, ".//ini//config.ini");//原神.路径
