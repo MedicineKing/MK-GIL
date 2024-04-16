@@ -69,10 +69,10 @@ public void StartGame()
 }
 ````
 #### 特别感谢：
-**shed-a-light**
-如果您想要为这个项目做出贡献，可以随时在GitHub上提交更改。
 
-请查看[GitHub](https://github.com/MedicineKing/MK-GIL)上的项目页面以获取更多信息。
+MedicineKing: 感谢您为这个项目做出贡献。
+shed-a-light: 特别感谢您为我们提供了有用的信息，帮助我们修改了部分bug。
+如果您有任何其他问题或需要更多帮助，请随时在GitHub上联系我。
 
 如果您有任何建议或问题，请随时在[GitHub](https://github.com/MedicineKing/MK-GIL)上联系项目维护者。
 
