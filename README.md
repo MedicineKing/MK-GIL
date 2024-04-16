@@ -66,9 +66,10 @@ public void StartGame()
             process.WaitForExit();
         }
     }
-}````
+}
 ````
-特别感谢
+#### 特别感谢：
+**shed-a-light**
 如果您想要为这个项目做出贡献，可以随时在GitHub上提交更改。
 
 请查看[GitHub](https://github.com/MedicineKing/MK-GIL)上的项目页面以获取更多信息。
