@@ -1,4 +1,4 @@
-﻿namespace 原神__启动_
+namespace 原神__启动_
 {
     class FilesINI
     {
