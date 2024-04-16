@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace 原神__启动_
+﻿namespace 原神__启动_
 {
     class FilesINI
     {
@@ -37,6 +31,11 @@ namespace 原神__启动_
         }
 
         internal System.Windows.Controls.TextBox INIRead(string v1, string v2, System.Windows.Controls.TextBox iNIPath)
+        {
+            throw new NotImplementedException();
+        }
+
+        internal void INIWrite(string v1, string v2, object text, string v3)
         {
             throw new NotImplementedException();
         }
